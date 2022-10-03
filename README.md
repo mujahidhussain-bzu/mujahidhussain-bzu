@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mujahidhussain-bzu
+- I am intersted in learning php. 
+- I want to build great applications. 
